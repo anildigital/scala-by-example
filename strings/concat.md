@@ -9,6 +9,6 @@ s1.concat("Man")
 
 ```
 
-```
-=> SuperMan
-```
+Returns
+
+`SuperMan`
